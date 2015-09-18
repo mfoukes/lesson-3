@@ -1,29 +1,35 @@
 
 body {
-	background-color: gray;
-	padding: 20px 0px 0px 20px;
+	background-color: #D6DBDF;
+	padding: 20px 0px 0px 30px;
 	font-family: sans-serif;
 	display: block;
 	margin: 0 auto 0 auto;
+
 }
 h1 {
 	font-size: 50px;
-	font-style: bold;
+	font-weight: bold;
 	margin: 0 auto 0 auto;
 	background-color: white;
+
 
 }
 .box {
 	width: 50px;
-	height: 80px;
+	height: 50px;
 	margin: 0 auto 0 auto;
-	background-color: gray;
+	background-color: #D6DBDF;
 	padding: 30px 0px 0px 30px;
 	float: left;
-	font-size: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	border-bottom-color: #808C8C;
+
+
 }
 .special {
-	background-color: orange;
+	background-color: #FE5627;
 	margin: 0 auto 0 auto;
 }
 
@@ -31,6 +37,7 @@ h2 {
 	clear: both;
 	background-color: white;
 	margin: 0 auto 0 auto;
+	font-weight: bold;
 }
 p {
 	clear: both;
@@ -43,5 +50,12 @@ p {
 	padding: 50px 0px 0px 50px;
 	margin: 0 auto 0 auto;
 	background-color: white;
+
+}
+span {
+	font-style: italic;
+}
+a {
+	background-color:white;
 
 }
