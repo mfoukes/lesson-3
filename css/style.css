@@ -1,10 +1,11 @@
 
 body {
-	background-color: #D6DBDF;
+	background-color: white;
 	padding: 20px 0px 0px 30px;
 	font-family: sans-serif;
 	display: block;
 	margin: 0 auto 0 auto;
+
 
 }
 h1 {
@@ -24,10 +25,11 @@ h1 {
 	float: left;
 	font-size: 25px;
 	font-weight: bold;
-	border-bottom-color: #808C8C;
-
-
 }
+.question {
+	clear: both;
+}
+
 .special {
 	background-color: #FE5627;
 	margin: 0 auto 0 auto;
@@ -59,3 +61,7 @@ a {
 	background-color:white;
 
 }
+br {
+	background-color: white;
+}
+
